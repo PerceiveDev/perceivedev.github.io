@@ -7,6 +7,10 @@ div.top-bar ul.menu li[role=menuitem] {
 	color: #FFF;
 }
 
+div.top-bar ul.menu {
+	background-color: #34495e;
+}
+
 div.top-bar ul.menu li[role=menuitem] a {
 	color: #FFF;
 	transition: color .3s;
