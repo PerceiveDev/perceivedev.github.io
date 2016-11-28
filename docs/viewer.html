@@ -43,24 +43,18 @@
     <!-- Gap -->
     <br>
 
-    <!-- Page Content -->
+    <!-- Markdown viewer -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.5.0/showdown.min.js"></script>
+    <script src="scripts/markdown.js"></script>
+
     <div class="row" id="content">
-        <div class="medium-12 columns">
-            <h2>Document name</h2>
-
-            <h3>Item 1</h3>
+        <div class="medium-12 columns markdown-attach-point">
             <p>
-                Description 1
+                Something utterly catastrophic has happened, and the markdown script failed to load. You should never, EVER see this text, so the fact that you are seeing it means we very well may be on the verge of an apocalypse. It's probably best for you to gather
+                up your zombie-fighting equipment just to be on the safe side.
             </p>
-
-            <h3>Item 2</h3>
             <p>
-                Description 2
-            </p>
-
-            <h3>Item 3</h3>
-            <p>
-                Description 3
+                But anyways, on a completely serious note, the most likely cause for this is that <a href="https://github.com/showdownjs/showdown">Showdown</a> failed to load (the Markdown parser script we use). Check the console for more information.
             </p>
         </div>
     </div>
