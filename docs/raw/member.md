@@ -5,7 +5,7 @@ These are the requirements we have for members in regards to the social aspects 
 - Be social and be active on Slack at least every 3 days (bare minimum)
 - Be cooperative with the leaders and your fellow members
 - Commit to some project at least once every couple of days (bare minimum)
-- Follow all the required code guidelines
+- Follow all the required [code guidelines](./viewer.html?f=code)
 - Listen to suggestions, sometimes other people have better ideas than you
 - No swearing, it is not necessary in a professional team (accidents are tolerated)
 - No explicit content or comments
